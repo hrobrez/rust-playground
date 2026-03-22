@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Fixed minor edge case in input handling
 - Improved error handling in edge cases
+
+## 2026-03-23
+- Pinned dependency versions for reproducibility
