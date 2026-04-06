@@ -34,3 +34,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Verified API endpoint response schema
 - Added healthcheck endpoint stub
+
+## 2026-04-06
+- Wrote notes on upcoming feature design
+- Resolved TODO items from previous session
